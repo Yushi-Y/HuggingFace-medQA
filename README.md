@@ -1,2 +1,2 @@
 # AI_2
-AI CWs
+Coding Courseworks for MSC AI (2nd term) at Imperial College London.
