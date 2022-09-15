@@ -1,2 +1,2 @@
-# AI_2
-Coding Courseworks for MSc AI (2nd term) at Imperial College London.
+# AI-term-2
+Coding Courseworks for MSc AI at Imperial College London.
