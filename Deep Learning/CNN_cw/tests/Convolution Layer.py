@@ -1,0 +1,13 @@
+test = {   'name': 'Convolution Layer',
+    'points': 15,
+    'suites': [   {   'cases': [   {'code': '>>> list(Conv2d(3,7,9)(torch.zeros((10, 3,64,64))).shape) == [10,7,56,56]\nTrue', 'hidden': False, 'locked': False, 'points': 0},
+                                   {'code': '>>> type(Conv2d(1,3,2)(torch.zeros((7,1,32,32)))) in [torch.Tensor, torch.nn.Parameter]\nTrue', 'hidden': False, 'locked': False, 'points': 0},
+                                   {'code': ">>> hasattr(Conv2d(1,1,1), 'w') and hasattr(Conv2d(1,1,1), 'b')\nTrue", 'hidden': False, 'locked': False, 'points': 0},
+                                   {   'code': '>>> layer = Conv2d(7,32,4)\n>>> (list(layer.w.shape) == [32,7,4,4])  and (list(layer.b.shape) == [32])\nTrue',
+                                       'hidden': False,
+                                       'locked': False,
+                                       'points': 0}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
