@@ -1,2 +1,2 @@
 # AI-term-2
-Coding Courseworks for Artificial Intelligence at Imperial College London, including exercises for NLP and Probabilistic Inference. 
+Coding Courseworks for MSc Artificial Intelligence, including exercises for NLP and Probabilistic Inference. 
