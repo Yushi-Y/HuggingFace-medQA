@@ -1,2 +1,2 @@
 # AI-term-2
-Coding Courseworks for MSc Artificial Intelligence, including exercises for Deep Learning (CNN, VAE, GAN, RNN), NLP and Probabilistic Inference. 
+Coding Coursework for MSc Artificial Intelligence, including coursework for NLP, Machine Learning Fairness, and Probabilistic Inference.
