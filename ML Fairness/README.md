@@ -1,1 +1,1 @@
-# CW: Fairness-based Machine Learning Algorithms: Model Selection
+# Fairness-based Machine Learning Algorithms: Model Selection
