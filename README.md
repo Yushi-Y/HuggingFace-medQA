@@ -2,7 +2,7 @@
 
 1. Patronizing Language Classifier:
 
-   The folder [[https://github.com/Yushi-Y/NLP-projects/tree/main/Classify_Patrinosing_Language_HF][Classify_Patronising_Language_HF]]: Fine-tuned the last layer of Transformer-based models on HuggingFace to classify patronising language.
+   The folder [https://github.com/Yushi-Y/NLP-projects/tree/main/Classify_Patrinosing_Language_HF](Classify_Patronising_Language_HF): Fine-tuned the last layer of Transformer-based models on HuggingFace to classify patronising language.
 
 3. Parameter-Efficient Fine-Tuning (PEFT) on LLMs:
 
