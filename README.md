@@ -1,4 +1,4 @@
-# NLP-projects
+# Fine-tuning LLM for medical multiple choice questions
 
 - **[Full Fine-Tuning on HF](https://github.com/Yushi-Y/NLP-projects/tree/main/Full_FT_HF)**: Using HuggingFace's Trainer() class, fine-tune BERT-based models end-to-end for text-classification and (visual) multiple choice questions.
   
